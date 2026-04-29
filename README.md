@@ -26,7 +26,7 @@ The standard sample size formula was designed for small, relatively uniform plot
  
 As area increases, the formula approaches a fixed ceiling determined by variance and your precision targets — not by area. For a homogeneous area this is statistically correct. For a large, ecologically complex landscape it systematically underestimates how many samples you need.
 
-<img width="623" height="282" alt="Screenshot 2026-04-29 at 3 25 25 PM" src="https://github.com/user-attachments/assets/1f75f5cc-e182-4a7d-8bd2-4cc0f81f7f60" />
+<img width="629" height="229" alt="Screenshot 2026-04-29 at 3 52 38 PM" src="https://github.com/user-attachments/assets/3e1c4abf-2317-4e9f-8f1f-59d22ff77a57" />
 
 
 ---
