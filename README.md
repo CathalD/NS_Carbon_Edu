@@ -50,13 +50,13 @@ Total sample size = sum of all sub-unit *n* values. This is your defensible, are
 > [!TIP]
 > **When this works best**
 >
-> You have pre-existing management units, watershed delineations, or administrative boundaries that also make ecological sense. If your divisions feel arbitrary, consider Option 2 — letting satellite data define where the meaningful boundaries actually are.
+> You have pre-existing management units, watershed delineations, or administrative boundaries that also make ecological sense. If your divisions are not creating the smaller homogenous areas the spreadhseet tool requires, consider Option 2 — letting satellite data define where the boundaries are.
 
 ---
 
 ## Option 2 — Stratification with geospatial tools
 
-Rather than dividing your area arbitrarily, stratification uses satellite imagery and land cover data to divide it *meaningfully* — into zones that are internally similar and externally distinct for carbon stock. Each zone then gets its own share of the total sample size, ensuring no ecosystem type is systematically under-sampled.
+Rather than dividing your area manually, stratification uses satellite imagery and land cover data to divide it into zones that are internally similar and externally distinct for carbon stock. Each zone then gets its own share of the total sample size, ensuring no ecosystem type is systematically under-sampled.
 
 ### How the tool works
 
