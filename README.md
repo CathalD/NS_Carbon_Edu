@@ -17,7 +17,7 @@ Field guidance for carbon stock estimation across large project areas
 ---
 ## Why your sample size looks too small
  
-To start: you did nothing wrong. The standard sample size formula was designed for small, relatively uniform plots. When applied to a landscape of thousands of hectares, it hits a statistical ceiling — not because your area is well-sampled, but because the formula assumes the entire area is homogeneous.
+The standard sample size formula was designed for small, relatively uniform plots. When applied to a landscape of thousands of hectares, it hits a statistical ceiling — not because your area is well-sampled, but because the formula assumes the entire area is homogeneous.
  
 > [!NOTE]
 > **The core assumption that breaks down**
@@ -128,7 +128,7 @@ https://github.com/user-attachments/assets/5eb07031-6a74-483b-8331-44eef2a45343
 
 ---
 
-## Option 3 — Remote sensing-based methods
+## Option 3 — Remote sensing-based methods (More details coming soon)
 
 Building on Option 2, estimating carbon stocks across large areas often requires spatial extrapolation — using field plots to calibrate a model that predicts carbon at every location across the landscape. This changes the fundamental question from *how many plots do I need to estimate the mean?* to *how many plots do I need to train a model that meets a target prediction accuracy?*
 
@@ -136,18 +136,3 @@ Building on Option 2, estimating carbon stocks across large areas often requires
 - Remote sensing covariates (spectral indices, canopy height, terrain derivatives) are extracted at each plot location. The sampling design must ensure plots span the full covariate space of the landscape, not just its geographic extent.
 - This approach is most appropriate when the project goal is a wall-to-wall carbon map rather than a single mean estimate — for instance, VM0033-compliant baseline mapping across a large project boundary.
 
-> 📹 **Demonstration — remote sensing-based sampling design**
-> Video coming soon. Replace this line with an embedded YouTube or Vimeo link.
-
-> [!NOTE]
-> **Further reading**
->
-> Wadoux et al. (2021). Spatial cross-validation is not the right way to evaluate map accuracy. *Ecological Modelling*, 457, 109692.
->
-> Sothe et al. (2022). Large scale mapping of soil organic carbon concentration with 3D machine learning and satellite observations. *Geoderma*, 405, 115402. — Canadian soil and forest carbon priors used in the sampling tool above.
-
----
-
-Developed by [WWF-Canada / North Star Labs](#) for the [Nature Meets Carbon](#) and Blue Carbon Hub initiatives. Tools are open source and designed for Indigenous-led land stewardship programs and conservation practitioners across Canada.
-
-[GitHub](#) &nbsp;·&nbsp; [GEE Sampling Tool](#) &nbsp;·&nbsp; [Contact](#)
