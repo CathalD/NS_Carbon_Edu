@@ -134,5 +134,5 @@ Building on Option 2, estimating carbon stocks across large areas often requires
 
 - **The model dictates the samples, not the other way around.** Sample size is determined by the number of training observations required to reach a target prediction error for the spatial model — typically a Random Forest or ensemble approach.
 - Remote sensing covariates (spectral indices, canopy height, terrain derivatives) are extracted at each plot location. The sampling design must ensure plots span the full covariate space of the landscape, not just its geographic extent.
-- This approach is most appropriate when the project goal is a wall-to-wall carbon map rather than a single mean estimate — for instance, VM0033-compliant baseline mapping across a large project boundary.
+- This approach is most appropriate when the project goal is a wall-to-wall carbon map rather than a single mean estimate — for instance, baseline mapping across a large project boundary.
 
