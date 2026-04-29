@@ -1,4 +1,3 @@
-<img width="618" height="214" alt="Screenshot 2026-04-29 at 3 24 25 PM" src="https://github.com/user-attachments/assets/cdc6041b-34da-4454-8e5f-f24676934837" />
 # Large-Area Carbon Sampling
 
 
