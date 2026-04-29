@@ -1,7 +1,7 @@
 # Large-Area Carbon Sampling
 
 
-▶ **[Open Sampling Tool](#)** &nbsp;·&nbsp; **[View Source Code](#)**
+▶ **[Open Sampling Tool](https://ee-cathalpdoherty2.projects.earthengine.app/view/stratification-sampling-tool)** &nbsp;·&nbsp; **[View Source Code](#)**
 
 Field guidance for carbon stock estimation across large project areas
 
@@ -140,7 +140,7 @@ https://github.com/user-attachments/assets/5eb07031-6a74-483b-8331-44eef2a45343
 
 
 
-▶ **[Open Tool in GEE](#)** &nbsp;·&nbsp; **[View Source Code](#)**
+▶ **[Open Tool in GEE](https://ee-cathalpdoherty2.projects.earthengine.app/view/stratification-sampling-tool)** &nbsp;·&nbsp; **[View Source Code](#)**
 
 ---
 
