@@ -1,13 +1,9 @@
 # Large-Area Carbon Sampling
 
-![Nature Meets Carbon](https://img.shields.io/badge/Nature_Meets_Carbon-2e7d32?style=flat-square)
-![WWF-Canada](https://img.shields.io/badge/WWF--Canada-f6f8fa?style=flat-square&labelColor=d0d7de&color=f6f8fa&logoColor=1a1a1a)
-![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=google&logoColor=white)
-![Canada](https://img.shields.io/badge/Canada-f6f8fa?style=flat-square&labelColor=d0d7de&color=f6f8fa)
 
 ▶ **[Open Sampling Tool](#)** &nbsp;·&nbsp; **[View Source Code](#)**
 
-Field guidance for ecologists and land managers who need a defensible sampling design for carbon stock estimation across large project areas — and whose standard sample size calculator returned a surprisingly small number.
+Field guidance for carbon stock estimation across large project areas
 
 ---
 
@@ -22,7 +18,7 @@ Field guidance for ecologists and land managers who need a defensible sampling d
 
 ## Why your sample size looks too small
 
-To start: you did nothing wrong. The standard sample size formula was designed for small, relatively uniform plots. When applied to a landscape of thousands of hectares, it hits a statistical ceiling — not because your area is well-sampled, but because the formula assumes the entire area is homogeneous.
+The standard sample size formula was designed for small, relatively uniform plots. When applied to a landscape of thousands of hectares, it hits a statistical ceiling — not because your area is well-sampled, but because the formula assumes the entire area is homogeneous.
 
 > [!NOTE]
 > **The core assumption that breaks down**
@@ -126,8 +122,23 @@ You choose which allocation to use before exporting. Plot locations are availabl
 
 ### Video walkthrough
 
-> 📹 **Demonstration — large boreal landscape in Ontario**
-> Video coming soon. Replace this line with an embedded YouTube or Vimeo link.
+> You can choose to upload a asset to google earth engine, and copy and paste the asset path, or you can draw a polygon from scratch using the drawing tool. 
+
+https://github.com/user-attachments/assets/559353d5-fb23-40ef-b1d4-28ea82f06638
+
+
+
+
+
+
+https://github.com/user-attachments/assets/5eb07031-6a74-483b-8331-44eef2a45343
+
+
+
+
+
+
+
 
 ▶ **[Open Tool in GEE](#)** &nbsp;·&nbsp; **[View Source Code](#)**
 
