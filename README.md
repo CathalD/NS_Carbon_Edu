@@ -1,3 +1,4 @@
+<img width="618" height="214" alt="Screenshot 2026-04-29 at 3 24 25 PM" src="https://github.com/user-attachments/assets/cdc6041b-34da-4454-8e5f-f24676934837" />
 # Large-Area Carbon Sampling
 
 
@@ -25,8 +26,9 @@ To start: you did nothing wrong. The standard sample size formula was designed f
 > The formula treats your entire project area as a single, internally consistent population. A large landscape spanning multiple ecosystem types, soil depths, and drainage classes will have far more internal variability than the model accounts for — and that variability is exactly what drives sample size.
  
 As area increases, the formula approaches a fixed ceiling determined by variance and your precision targets — not by area. For a homogeneous area this is statistically correct. For a large, ecologically complex landscape it systematically underestimates how many samples you need.
- 
-<img width="665" height="283" alt="Screenshot 2026-04-29 at 3 03 46 PM" src="https://github.com/user-attachments/assets/9b03af84-75f1-47de-9dba-da2fe52e2282" />
+
+<img width="623" height="282" alt="Screenshot 2026-04-29 at 3 25 25 PM" src="https://github.com/user-attachments/assets/1f75f5cc-e182-4a7d-8bd2-4cc0f81f7f60" />
+
 
 ---
 
