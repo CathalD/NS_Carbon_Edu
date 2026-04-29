@@ -20,7 +20,7 @@ Field guidance for carbon stock estimation across large project areas
 The standard sample size formula was designed for small, relatively uniform plots. When applied to a landscape of thousands of hectares, it hits a statistical ceiling — not because your area is well-sampled, but because the formula assumes the entire area is homogeneous.
  
 > [!NOTE]
-> **The core assumption that breaks down**
+> **The core assumption of the basic spreadsheet calculator is an area in homogenous**
 >
 > The formula treats your entire project area as a single, internally consistent population. A large landscape spanning multiple ecosystem types, soil depths, and drainage classes will have far more internal variability than the model accounts for — and that variability is exactly what drives sample size.
  
